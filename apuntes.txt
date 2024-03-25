@@ -1,0 +1,2 @@
+En las tuplas SOLAMENTE podemos buscar elementos y contarlos. Si intentamos invertirla, revertirla, alterarla de cualquier forma NO podemos. 
+Las tuplas y los conjuntos(set) son INMUTABLES.
