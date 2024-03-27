@@ -11,7 +11,7 @@ crudo_dalto = 3.5
 #Ejercicio A
 #Diferencia de duracion 1
 #La división doble(//) me devuelve un valor entero.
-diferencia_con_min = 100 - (dalto_curso * 1000 //  otros_cursos_min / 10)
+diferencia_con_min = 100 -(dalto_curso * 1000 //  otros_cursos_min / 10)
 #Diferencia de duracion 2
 diferencia_con_max = 100 -  (dalto_curso *1000 // otros_cursos_max / 10)
 #Diferencia de duracion 3
