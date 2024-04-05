@@ -1,2 +1,8 @@
 En las tuplas SOLAMENTE podemos buscar elementos y contarlos. Si intentamos invertirla, revertirla, alterarla de cualquier forma NO podemos. 
 Las tuplas y los conjuntos(set) son INMUTABLES.
+
+Un modulo es cualquier archivo.py. Le decimos así porque desde un módulo podemos llamar a otro módulo.
+Tenemos 3 formas de módulos:
+Los modulos python. Son los nativos de Python y están escritos en C.
+Los módulos de terceros. Como las librerias que descargamos.
+Los own modulos. Que son los propios
