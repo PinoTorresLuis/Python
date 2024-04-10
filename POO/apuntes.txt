@@ -1,0 +1,15 @@
+La programación orientada a objetos es una forma más de programar.
+Lo que aparece acá fuermente son las clases y objetos.
+Cada objeto es una instancia de una clase.
+Una clase es una plantilla que define las propiedades y comportamientos de esa misma clase. Ej: Class Persona : altura, peso, color de pelo, piel, DNI 
+
+Esto sirve para definir la estructura y organización de nuestro código. Es más mantenible y optimiza nuestro proyecto.
+
+También permite que el código sea más seguro para que solamente se pueda ingresar con métodos especificos. 
+
+Para entender las excepciones primero hay que entender qué es un evento. 
+Un evento es cualquier cosa que suceda dentro de nuestro programa. Desde hacer click en el programa a mover el mouse o matener un botón, etcs. Los eventos normales que conocemos desde JS.
+
+Las excepciones también son eventos que ocurren durante la ejecución de nuestro programa pero detiene el flujo normal de nuestro programa. 
+El objetivo de trabajar con las excepciones es saber actuar en consecuencia de estas mismas.
+Lo ideal de esto es saber manejar las excepciones para que cuando surjan no se detenga el programa y pueda continuar con su flujo normal
